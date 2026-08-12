@@ -1,11 +1,12 @@
 import { Skill, Project, EducationItem, CertificationItem } from './types';
+import portfolioImage from './assets/images/portfolio3.jpeg';
 
 export const personalInfo = {
   name: 'Hariharan RG',
   title: 'B.Tech Artificial Intelligence & Data Science Student',
   shortIntro: 'Passionate about Java, Python, C++, Web Development, and Artificial Intelligence. I enjoy building practical applications, solving real-world problems, and continuously improving my technical skills.',
   aboutMe: 'I am a highly motivated B.Tech student in Artificial Intelligence and Data Science at J.N.N Institute of Engineering. My academic journey has fueled a deep passion for software development and artificial intelligence. I love exploring emerging technologies, designing efficient algorithms, and engineering systems that bridge the gap between complex data and intuitive user experiences. With a strong foundation in Object-Oriented Programming, data structures, and database systems, I am eager to apply my skills to real-world projects and drive impact through continuous learning and collaboration.',
-  avatarUrl: '',
+  avatarUrl: portfolioImage,
   email: 'hariharangopinath03@gmail.com',
   phone: '+91 7904568515',
   linkedin: 'https://www.linkedin.com/in/hariharan-gopinath-2b12ab39a',
